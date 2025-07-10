@@ -30,7 +30,7 @@ Smoking Habits
 Physical Activity
 Diabetes Status
 Other relevant health indicators.
-Source: [Include dataset source link if public, or mention it's private.]
+Source: "https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset"
 
 Project Objective
 The main objectives of this project are:
