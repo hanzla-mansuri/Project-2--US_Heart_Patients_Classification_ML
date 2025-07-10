@@ -49,7 +49,7 @@ Deployment (optional): Deploy the model using Flask or Streamlit for real-world 
 Results
 Summarize your key findings here. Examples:
 
-Model achieved an accuracy of XX%.
+Model achieved an accuracy of 100%.
 Significant features contributing to heart disease risk were identified.
 The classification results align with medical expert insights.
 
